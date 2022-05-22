@@ -9,3 +9,7 @@ This project enables a user to deposit NFTs into a vault. Users can then delegat
 
 alpha version deployed on MATIC mainet (experimental no audit conducted yet):
 https://polygonscan.com/address/0x8F9Db7154c53463D63D44d5693Cd40F41a851C43#code
+
+Try it out with a demo NFT avaible for mint:
+https://polygonscan.com/address/0xcd93828524a117eE0f874b1fEb77534F20B35351#writeContract
+
